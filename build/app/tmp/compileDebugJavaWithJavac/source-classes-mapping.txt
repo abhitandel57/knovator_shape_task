@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/knovator_shape_task/BuildConfig.java
+ com.example.knovator_shape_task.BuildConfig
